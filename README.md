@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DanaeMorrison
-- 👀 I’m interested in anime, games, books, and languages.
-- 🌱 I’m currently learning about object-oriented programming.
+Hi, I’m @DanaeMorrison
+I’m interested in anime, games, books, and languages.
+I’m currently learning about object-oriented programming.
 
 
 <!---
